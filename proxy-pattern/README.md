@@ -45,7 +45,7 @@ SecretTextFile 이라는 클래스를 인수 받았고 이 클래스는 수정�
 Virtual proxy 패턴을 통해 리팩토링 해보자
 ```
 
-[소스코드](src/virtual/Main.java)
+[소스코드](src/virtual)
 
 ## Protection Proxy
 - 보호 프록시는 프록시 객체가 실제 객체에 대한 접근을 제어한다.
@@ -57,7 +57,7 @@ Virtual proxy 패턴을 통해 리팩토링 해보자
 따라서 전삼팀에 근무중인 나는 직책에 따라서 조직원의 인사정보 접근을 제어하는 업무를 수행해야한다.
 Protection proxy 패턴을 통해 구현 해보자
 ```
-[소스코드](src/protection/Main.java)
+[소스코드](src/protection)
 
 
 
