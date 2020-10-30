@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" filepath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
     </modules>
