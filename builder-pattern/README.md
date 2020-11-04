@@ -1,6 +1,5 @@
 # Builder Pattern(ver.Effective Java)
----
-## Builder Pattern
+## 개념
 생성자에 매개 변수가 많을 경우 사용하는 방식으로 객체 생성을 깔끔하고 유연하게 하기 위한 기법이다.
 
 ## 장점
