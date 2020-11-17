@@ -9,7 +9,7 @@
 - 객체의 자료형이 하위 클래스에 의해서 결정됨
     - 확장이 용이
     - 상위 클래스에서 그 객체에 대한 정확한 타입을 몰라도 됨
-- SOLID 원칙중 DPI(Dependency Inversion Principle, 의존 관계 역전 원칙)를 성립합
+- SOLID 원칙중 DIP(Dependency Inversion Principle, 의존 관계 역전 원칙)를 성립합
 
 ## 단점
 
