@@ -55,7 +55,7 @@ public class EagerInitSingleObject{
 - 소스코드
 ```java
 public class LazyInitSingleObject{
-    private static LazyInitSingleObject instance = new LazyInitSingleObject();
+    private static LazyInitSingleObject instance;
     
     private LazyInitSingleObject(){}
 

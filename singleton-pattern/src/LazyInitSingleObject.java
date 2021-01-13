@@ -1,5 +1,5 @@
 public class LazyInitSingleObject{
-    private static LazyInitSingleObject instance = new LazyInitSingleObject();
+    private static LazyInitSingleObject instance;
 
     private LazyInitSingleObject(){
         System.out.println("call LazyInitSingleObject constructor");
